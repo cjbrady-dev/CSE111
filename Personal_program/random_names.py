@@ -14,8 +14,9 @@ b.pack()
 root.mainloop()
 
 
-def main():
-def student_name():
-    with open Names.CSV as names:
+# def main():
 
-def expression():
+# def student_name():
+#     with open Names.CSV as names:
+
+# def expression():
