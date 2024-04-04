@@ -18,5 +18,11 @@ root.mainloop()
 
 # def student_name():
 #     with open Names.CSV as names:
+## Open Names.CSV 
+    ##get a random name
+    ##print name to GUI
 
 # def expression():
+    ##Open Expressions.CSV 
+    ##get a random mathmatic expression
+    ##print expression to GUI
