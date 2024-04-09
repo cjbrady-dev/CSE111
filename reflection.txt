@@ -1,0 +1,28 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+    I honestly was continuously surprised by the "power of functions" The very first couple of group projects I was amazed that one I was able to actully program with functions.
+    Two They were so usable, I could make functions that could be used for various operations and used repeatedly in one program.
+
+
+
+2. In your judgment, what is the value of test functions?
+
+    Functions make coding what it is today, without functions we could not have programs that preform numerous things. Functions make code reusable and dynamic I think.
+    They also really help to organize our code. They help us keep our code straight and structured in an understandable way and user friendly way.
+
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+    I am rather poor troubleshooting skills still. I tend to rush through the code for sure so I can confidently say I know one thing I can do that would help greatly with improving my skill in troubleshooting.
+    Read, and read slower and work to understand by taking the time necessary to understand what is being read so I don't have to test the code with little understanding of it and have to go back and read it all again.
+    I end up wasting so much time that way. As I was saying I rush through it. I think I need to be more patient with the reading to then be more thoughtful about how I can trouble shoot the code, I generally just rush in blind.
+    Of course that is a really bad way to go about things so I need to chang that without a doubt.
+
+
+

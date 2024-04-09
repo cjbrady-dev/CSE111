@@ -9,10 +9,10 @@ csv_file_names = "C:\\Users\\cjcri\\OneDrive\\Documents\\BYU_I\\cse111\\Personal
 csv_file_expressions =  "C:\\Users\\cjcri\\OneDrive\\Documents\\BYU_I\\cse111\\Personal_program\\expressions.csv"
 
 
-# def main():
+def main():
+    root.mainloop()
 
-# def student_name(csv_file):
-#     with open Names.CSV as names:
+
 def student_name(csv_file_names):
     with open(csv_file_names) as f:
         reader = csv.reader(f)
@@ -47,12 +47,5 @@ button.pack()
 root.mainloop()
 
 
-
-## Open Names.CSV 
-    ##get a random name
-    ##print name to GUI
-
-# def expression():
-    ##Open Expressions.CSV 
-    ##get a random mathmatic expression
-    ##print expression to GUI
+if __name__ == "__main__":
+    main()
